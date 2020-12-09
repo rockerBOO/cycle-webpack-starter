@@ -15,5 +15,6 @@
   "scripts": {
     "dev": "webpack-dev-server -D -w",
     "build": "webpack"
-  }
+  },
+  "name": "cycle-webpack-starter"
 }
