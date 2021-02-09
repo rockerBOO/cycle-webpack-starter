@@ -6,7 +6,7 @@
     "xstream": "^11.14.0"
   },
   "devDependencies": {
-    "html-webpack-plugin": "^4.5.1",
+    "html-webpack-plugin": "^5.0.0",
     "html-webpack-template": "^6.2.0",
     "webpack": "^5.21.2",
     "webpack-cli": "^4.5.0",
