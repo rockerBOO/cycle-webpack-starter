@@ -1,7 +1,7 @@
 cycle-webpack-starter
 ===
 
-Cycle.js 5 with Webpack 4 Starter.
+Cycle.js 5 with Webpack 5 Starter.
 
 * Only cycle, webpack
 * Minimal configs
