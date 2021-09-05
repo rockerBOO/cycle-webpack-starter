@@ -13,7 +13,7 @@
     "webpack-dev-server": "^4.1.0"
   },
   "scripts": {
-    "dev": "webpack-dev-server -D -w",
+    "dev": "webpack serve",
     "build": "webpack"
   },
   "name": "cycle-webpack-starter"
