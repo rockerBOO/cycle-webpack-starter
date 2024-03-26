@@ -1,6 +1,8 @@
 cycle-webpack-starter
 ===
 
+Archived as no longer using.
+
 Cycle.js 5 with Webpack 5 Starter.
 
 * Only cycle, webpack
